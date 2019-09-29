@@ -1,0 +1,4 @@
+1. Deposit $300  $1300
+2. Withdrawal $200  $1100
+3. Deposit $500  $1600
+4. Deposit $600  $2200
